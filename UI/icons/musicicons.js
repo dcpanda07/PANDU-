@@ -7,7 +7,7 @@ const musicIcons = {
     beatsIcon: 'https://cdn.discordapp.com/emojis/928310693416009828.gif',
     beats2Icon : 'https://cdn.discordapp.com/emojis/953413565400879165.gif',
     alertIcon : 'https://cdn.discordapp.com/emojis/996431685358981201.gif',
-    skipIcon: 'https://discord.com/channels/@me/1349363043976609914/1355095295465230446',
+    skipIcon: 'https://cdn.discordapp.com/emojis/938388856095514654.gif',
     stopIcon: 'https://cdn.discordapp.com/emojis/1021628438441902100.gif',
     volumeIcon: 'https://cdn.discordapp.com/emojis/1040824501711159397.gif',
     playlistIcon : 'https://cdn.discordapp.com/emojis/1096444591982522498.gif',
